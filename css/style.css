@@ -1,0 +1,124 @@
+body {
+	background: url(../images/bg.jpg) no-repeat;
+	background-size: cover;
+	margin: 3% auto;
+	font-family: Helvetica;
+}
+
+.container {
+	background-color: #F7F7F7;
+}
+
+big {
+	color: #4D5656;
+	font-size: 22px;
+}
+
+small {
+	color: #99A3A4;
+	font-size: 35px;
+}
+
+h5 {
+	margin: 7% auto;
+	text-align: right;
+}
+h3 {
+	margin: 4% auto 2%;
+	text-align: center;
+	font-size:35px;
+	color:#00000a;
+	font-weight: bold;
+}
+
+.row {
+	margin: 2% auto;
+}
+
+.img-responsive {
+    margin: 0 auto;
+}
+
+.down-left {
+	margin: 1% auto;
+}
+
+.box-feature {
+	margin: 1% auto;
+}
+
+.col-sm-2 h5 {
+	font-size: 15px;
+	color: #5A92DC;
+	font-style: italic;
+}
+
+.col-sm-3 {
+	text-align: justify;
+}
+
+.col-sm-3 p {
+	font-stretch: expanded;	
+	color: #909497;
+	font-family:Helvetica;
+	font-size: 12px;
+}
+
+.card-body {
+	border: 1px solid;
+	margin: 2% auto;
+}
+
+.card-body p {
+	margin: 3%;
+	font-stretch: expanded;	
+	color: #909497;
+	font-style: italic;
+}
+
+.box-down-right {
+	margin: -2% auto;
+}
+.img-down-right {
+	margin-left: 30%;
+}
+
+.text-down-right {
+	margin: 1% auto;	
+}
+
+.text-down-right h5 {
+	font-size: 20px;
+}
+
+.container-bg .container {
+	background: url(../images/bg-bottom.jpg) repeat-x top;
+}
+
+.container-bg .container h3 {
+	text-align: left;
+	font-size: 20px;
+	font-weight: normal;
+}
+.container-bg .container p {
+	color: white;
+}
+
+.fa {
+	padding: 2%;
+	font-size: 30px;
+	color: #FFF;
+}
+
+.fa:hover {
+	color: #D5D5D5;
+	text-decoration: none;
+}
+
+footer{
+	background: url(../images/bg-footer.jpg) repeat-x;
+}
+
+footer .row {
+	margin: 0px auto;
+}
